@@ -1,0 +1,14 @@
+REGEDIT4
+[HKEY_CLASSES_ROOT\ssh]
+@="URL:Putty SSH Protocol"
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\ssh\shell]
+[HKEY_CLASSES_ROOT\ssh\shell\open]
+[HKEY_CLASSES_ROOT\ssh\shell\open\command]
+@="\"C:\\Program Files\\putty\\putty_util.bat\" \"%1\""
+[HKEY_CLASSES_ROOT\telnet] @="URL:Putty Telnet Protocol"
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\telnet\shell]
+[HKEY_CLASSES_ROOT\telnet\shell\open]
+[HKEY_CLASSES_ROOT\telnet\shell\open\command]
+@="\"C:\\Program Files\\putty\\putty_util.bat\" \"%1\""
