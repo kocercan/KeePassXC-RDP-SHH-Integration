@@ -25,3 +25,10 @@
          I have tested other GlobalProtect functionality, all seems to work OK still.
 
          Here's the article I found, and I used 'method 2' using the registry. https://social.technet.microsoft.com/Forums/office/en-US/9c23976a-3e2b-4b71-9f19-83ee3df0848b/how-to-disable-additional-credential-providers?forum=w8itprosecurity
+
+
+
+Launch PuTTY.
+Click on one of your "Saved Sessions" and click "Load" button.
+Click on "Terminal" tree on the left pane and select "Features"
+In the right pane, check "Disable remote-controlled window title changing"
