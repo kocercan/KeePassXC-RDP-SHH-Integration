@@ -67,7 +67,7 @@ exit)
 
 echo var server=(WScript.Arguments(0))>>C:\Windows\hyperlink-rdp.js
 echo var prefix='rdp://'>>C:\Windows\hyperlink-rdp.js
-echo var app='C:\\WINDOWS\\system32\\mstsc.exe'>>C:\Windows\hyperlink-rdp.js
+echo var app='C:\\WINDOWS\\system32\\mstsc.exe  /public'>>C:\Windows\hyperlink-rdp.js
 echo server=server.replace(prefix, '')>>C:\Windows\hyperlink-rdp.js
 echo server=server.replace('/', '')>>C:\Windows\hyperlink-rdp.js
 echo var shell = new ActiveXObject("WScript.Shell")>>C:\Windows\hyperlink-rdp.js
