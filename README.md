@@ -8,5 +8,9 @@
    {USERNAME}{ENTER}{PASSWORD}{ENTER}   
 6- While creating new entries use ssh://192.168.5.244 or rdp://192.168.5.244 in URL field.   
 7- Usage     
-    - Open URL from KeePass    
-    - When the rdp or putty window opens press CTRL+Shift+V in order to trigger Auto-Type for credentials.   
+       - Open URL from KeePass    
+       - When the rdp or putty window opens press CTRL+Shift+V in order to trigger Auto-Type for credentials.   
+    
+         
+        note: You might want to clear your RDP history, it's explained well in this link.  
+        http://woshub.com/how-to-clear-rdp-connections-history/
