@@ -7,11 +7,11 @@
 5- Use following Auto-Type Sequence for SSH folder.   
    {USERNAME}{ENTER}{PASSWORD}{ENTER}   
 6- While creating new entries use ssh://192.168.5.244 or rdp://192.168.5.244 in URL field.
-7- For SSH Edit Entry > Auto-Type add "*.*" as Window Title without quotes.
-8- For RDP EditEntry > Auto-Type add "Remote Desktop Connection" as Window Title without quotes.
-7- Usage     
+7- For SSH Edit Entry > Auto-Type add "*.*" as Window Title without quotes.   
+8- For RDP EditEntry > Auto-Type add "Remote Desktop Connection" as Window Title without quotes.   
+9- Usage     
        - Open URL from KeePass    
-       - When the rdp or putty window opens press CTRL+Shift+V in order to trigger Auto-Type for credentials.   
+       - Press CTRL+Shift+V or clik Auto-Type Button in order to trigger Auto-Type for credentials.   
     
          
         note: You might want to clear your RDP history, it's explained well in this link.  
